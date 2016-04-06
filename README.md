@@ -28,7 +28,7 @@
 
 ## Note
 
-Thanks to the project named adxl345-master, my project is based on this project with some classes and functions.
+Thanks to the project named adxl345-master, my project is based on this project with some classes and functions. But I am very sorry for it that I can not find this project links anymore.
 
 License: GPLv2. See the LICENSE file for more details.
 ## Link
