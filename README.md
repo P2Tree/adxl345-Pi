@@ -30,6 +30,7 @@
 
 Thanks to the project named adxl345-master, my project is based on this project with some classes and functions.
 
+License: GPLv2. See the LICENSE file for more details.
 ## Link
 
 You can link me with email: dicksonliuming@gmail.com
